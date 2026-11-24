@@ -21,7 +21,6 @@ namespace OWASP.WebGoat.NET
 	        if (!Page.IsPostBack)
 	            SecurityQuestion.Text = passwordQuestion;
 	    }
-
 	    protected void CreateAccountButton_Click(object sender, EventArgs e)
 	    {
 	        MembershipCreateStatus createStatus;
