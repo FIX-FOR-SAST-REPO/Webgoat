@@ -10,7 +10,6 @@
 
 namespace OWASP.WebGoat.NET {
 	
-	
 	public partial class AddNewUser {
 		
 		protected System.Web.UI.WebControls.Content Content1;
